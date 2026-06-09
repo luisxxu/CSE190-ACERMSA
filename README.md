@@ -1,6 +1,6 @@
 # DPAMSA Analysis
 
-An extension of **DPAMSA** (Deep-reinforcement-learning Profile-based Multiple Sequence Alignment) that adds new RL algorithms, training/runtime optimizations, and a benchmarking pipeline comparing the learned aligners against traditional MSA tools (MAFFT, ClustalW, Clustal Omega, MSAProbs).
+An extension of **DPAMSA** (Deep-reinforcement-learning Profile-based Multiple Sequence Alignment) from [Liu et al. 2023](https://academic.oup.com/bioinformatics/article/39/11/btad636/7323576) from the [DPAMSA repo](https://github.com/ZhangLab312/DPAMSA) that adds new RL algorithms, training/runtime optimizations, and a benchmarking pipeline comparing the learned aligners against traditional MSA tools (MAFFT, ClustalW, Clustal Omega, MSAProbs).
 
 ## Summary of changes
 
